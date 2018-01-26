@@ -1,0 +1,10 @@
+D:\Dropbox\FT450D_NET_ANDROID\FT450D\FT450D\bin\Debug\FT450D.exe
+D:\Dropbox\FT450D_NET_ANDROID\FT450D\FT450D\bin\Debug\FT450D.pdb
+D:\Dropbox\FT450D_NET_ANDROID\FT450D\FT450D\obj\Debug\FT450D.csprojResolveAssemblyReference.cache
+D:\Dropbox\FT450D_NET_ANDROID\FT450D\FT450D\obj\Debug\FT450D.Form1.resources
+D:\Dropbox\FT450D_NET_ANDROID\FT450D\FT450D\obj\Debug\FT450D.Properties.Resources.resources
+D:\Dropbox\FT450D_NET_ANDROID\FT450D\FT450D\obj\Debug\FT450D.csproj.GenerateResource.Cache
+D:\Dropbox\FT450D_NET_ANDROID\FT450D\FT450D\obj\Debug\FT450D.exe
+D:\Dropbox\FT450D_NET_ANDROID\FT450D\FT450D\obj\Debug\FT450D.pdb
+D:\Dropbox\FT450D_NET_ANDROID\FT450D\FT450D\obj\Debug\FT450D.Form2.resources
+D:\Dropbox\FT450D_NET_ANDROID\FT450D\FT450D\obj\Debug\FT450D.Form3.resources
